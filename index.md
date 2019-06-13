@@ -1,6 +1,8 @@
 ## Welcome to OpenMaker
 
-This is a [Drupal 8](https://drupal.org) distribution (based off [Open Social](https://getopensocial.com)) for use by MakerSpaces.
+This is a [Drupal 8](https://drupal.org) distribution (based off [Open Social](https://getopensocial.com)) for use by MakerSpaces - still in the alpha phase, but making progress.
+
+Currently in use by [Chatt*Lab makerspace](https://chattlab.org)
 
 100% Open source.
 Host your own, or let us worry about backups, security and uptime for a small monthly fee - coming soon.

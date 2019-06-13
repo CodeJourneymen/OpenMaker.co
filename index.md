@@ -1,9 +1,9 @@
 ## Welcome to OpenMaker
 
-This is a Drupal 8 distribution (based off [Open Social](https://getopensocial.com)) for use by MakerSpaces.
+This is a [Drupal 8](https://drupal.org) distribution (based off [Open Social](https://getopensocial.com)) for use by MakerSpaces.
 
 100% Open source.
-Host your own, or let us worry about backups, security and uptime for a small monthly fee.
+Host your own, or let us worry about backups, security and uptime for a small monthly fee - coming soon.
 
 Trying to make Makerspace websites better, and not like Geocities is alive and well.
 

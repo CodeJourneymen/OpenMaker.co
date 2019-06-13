@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to OpenMaker
 
-You can use the [editor on GitHub](https://github.com/CodeJourneymen/OpenMaker.co/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a Drupal 8 distribution (based off [Open Social](https://getopensocial.com)) for use by MakerSpaces.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+100% Open source.
+Host your own, or let us worry about backups, security and uptime for a small monthly fee.
 
-### Markdown
+Trying to make Makerspace websites better, and not like Geocities is alive and well.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Always looking for contributors. Would like to help or learn more?  Then contact us.
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CodeJourneymen/OpenMaker.co/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[contact us](mailto:info@codejourneymen.com.com) and we’ll help you sort it out.
